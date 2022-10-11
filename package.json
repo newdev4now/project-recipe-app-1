@@ -2,7 +2,7 @@
   "name": "recipe-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://newDev4now.github.io/project-recipe-app-1/",
+  "homepage": "https://newdev4now.github.io/project-recipe-app-1/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
